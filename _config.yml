@@ -1,7 +1,7 @@
-name: "Benjamin Barad"
-description: "The Personal Homepage for Benjamin Barad"
+name: "Rodrigo"
+description: "The Personal Homepage for Rodrigo Méndez Rojano"
 
-url: "http://benjaminbarad.com"
+url: "http://rodrigoMendez_notfound.com"
 
 gems: [jekyll-paginate]
 paginate: 5
