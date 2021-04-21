@@ -5,3 +5,33 @@
   pmid: ' 29302840'
   pdf: 'https://hal.archives-ouvertes.fr/hal-01826601/document'
 
+- title: "Kinetics of the coagulation cascade including the contact activation system: sensitivity analysis and model reduction"
+  citation: "Méndez Rojano, R., Mendez, S., Lucor, D. et al. Kinetics of the coagulation cascade including the contact activation system: sensitivity analysis and model reduction. Biomech Model Mechanobiol 18, 1139–1153 (2019). https://doi.org/10.1007/s10237-019-01134-4"
+  date: '2019'
+  image: '/static/img/pub/MR_2019.png'
+  pmid: '30900051'
+  pdf: 'https://hal.umontpellier.fr/hal-02873826/document'
+
+- title: "Multi‐constituent simulation of thrombus formation at LVAD inlet cannula connection: Importance of Virchow’s triad"
+  citation: "Accepted in Artificial Organs"
+  date: '2020'
+  image: '/static/img/pub/MR_2020a.png'
+  pmid: 'In press'
+  arxiv: '1601.06717'
+  pdf: 'https://arxiv.org/pdf/1601.06717.pdf'
+
+- title: "Front-back asymmetry controls the impact of viscoelasticity on helical swimming"
+  citation: "Accepted in Physical Review Fluids"
+  date: '2020'
+  image: '/static/img/pub/MR_2020b.png'
+  pmid: 'In press'
+  arxiv: '2012.01579v1'
+  pdf: 'https://arxiv.org/pdf/2012.01579v1.pdf'
+
+- title: "Critical evaluation of kinetic schemes for coagulation"
+  citation: "In review"
+  date: '2021'
+  image: '/static/img/pub/MR_2020c.png'
+  pmid: 'In review'
+  bioarxiv: '10.1101/2021.04.12.439461'
+  pdf: 'https://doi.org/10.1101/2021.04.12.439461'
