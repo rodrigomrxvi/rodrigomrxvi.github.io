@@ -2,36 +2,46 @@
   citation: "Méndez Rojano R, Mendez S, Nicoud F. Introducing the pro-coagulant contact system in the numerical assessment of device-related thrombosis. Biomech Model Mechanobiol. 2018 Jun;17(3):815-826. doi: 10.1007/s10237-017-0994-3. Epub 2018 Jan 4. PMID: 29302840."
   date: '2018'
   image: '/static/img/pub/MR_2018.gif'
-  pmid: ' 29302840'
   pdf: 'https://hal.archives-ouvertes.fr/hal-01826601/document'
 
 - title: "Kinetics of the coagulation cascade including the contact activation system: sensitivity analysis and model reduction"
   citation: "Méndez Rojano, R., Mendez, S., Lucor, D. et al. Kinetics of the coagulation cascade including the contact activation system: sensitivity analysis and model reduction. Biomech Model Mechanobiol 18, 1139–1153 (2019). https://doi.org/10.1007/s10237-019-01134-4"
   date: '2019'
   image: '/static/img/pub/MR_2019.png'
-  pmid: '30900051'
   pdf: 'https://hal.umontpellier.fr/hal-02873826/document'
 
 - title: "Multi‐constituent simulation of thrombus formation at LVAD inlet cannula connection: Importance of Virchow’s triad"
-  citation: "Accepted in Artificial Organs"
-  date: '2020'
+  citation: "Méndez Rojano R, Zhussupbekov M, Antaki JF. Multi-constituent simulation of thrombus formation at LVAD inlet cannula connection: Importance of Virchow's triad. Artif Organs. 2021 Sep;45(9):1014-1023. doi: 10.1111/aor.13949."
+  date: '2021'
   image: '/static/img/pub/MR_2020a.png'
-  pmid: 'In press'
   arxiv: '1601.06717'
   pdf: 'https://arxiv.org/pdf/1601.06717.pdf'
 
 - title: "Front-back asymmetry controls the impact of viscoelasticity on helical swimming"
-  citation: "Accepted in Physical Review Fluids"
+  citation: "Front-back asymmetry controls the impact of viscoelasticity on helical swimming. Veronica Angeles, Francisco A. Godínez, Jhonny A. Puente-Velazquez, Rodrigo Mendez-Rojano, Eric Lauga, and Roberto Zenit. Phys. Rev. Fluids 6, 043102 – Published 26 April 2021"
   date: '2020'
   image: '/static/img/pub/MR_2020b.png'
-  pmid: 'In press'
   arxiv: '2012.01579v1'
   pdf: 'https://arxiv.org/pdf/2012.01579v1.pdf'
+
+- title: "A continuum model for the unfolding of von Willebrand Factor"
+  citation: "Zhussupbekov M, Méndez Rojano R, Wu WT, Massoudi M, Antaki JF. A Continuum Model for the Unfolding of von Willebrand Factor. Annals of Biomedical Engineering. 2021 Sep;49(9):2646-2658. DOI: 10.1007/s10439-021-02845-5."
+  date: '2021'
+  image: '/static/img/pub/ZM_2021b.png'
+  arxiv: '2108.02742'
+  pdf: 'https://arxiv.org/pdf/2108.02742.pdf'
+
+- title: "Uncertainty quantification of a thrombosis model considering the clotting assay PFA-100"
+  citation: "In Review"
+  date: '2021'
+  image: '/static/img/pub/MR_2021UQ.png'
+  arxiv: '2107.00578v1'
+  pdf: 'https://arxiv.org/pdf/2107.00578.pdf'
 
 - title: "Critical evaluation of kinetic schemes for coagulation"
   citation: "In review"
   date: '2021'
   image: '/static/img/pub/MR_2020c.png'
-  pmid: 'In review'
   bioarxiv: '10.1101/2021.04.12.439461'
   pdf: 'https://doi.org/10.1101/2021.04.12.439461'
+
