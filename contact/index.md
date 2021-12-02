@@ -8,5 +8,5 @@ group: contact
 
 [email](mailto:rm2235@cornell.edu).
 
-You can also find me online at [twitter](https://twitter.com/Ro_Mcfearless), [linkedin](),[researchgate](https://www.researchgate.net/profile/Rodrigo-Mendez-Rojano), and [github](https://github.com/rodrigomrxvi).
+You can also find me online at [twitter](https://twitter.com/Ro_Mcfearless), [linkedin](https://www.linkedin.com/in/rodrigo-mendez-rojano-/), [researchgate](https://www.researchgate.net/profile/Rodrigo-Mendez-Rojano), and [github](https://github.com/rodrigomrxvi).
 
