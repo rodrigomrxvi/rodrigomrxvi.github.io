@@ -18,6 +18,11 @@ group: publications
           </div>
           <ul class="col-sm-6">
               <strong>Access the paper</strong>
+              <!--CITATION-->
+              {% if publication.citation %}
+              <li>Citation: <a alt = "pubmed link: {{publication.citation}}"> {{publication.citation}}</a></li>
+              {% endif %}
+
               <!--PMID-->
               {% if publication.pmid %}
               <li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}"> {{publication.pmid}}</a></li>
